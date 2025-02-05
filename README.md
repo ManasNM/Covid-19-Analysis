@@ -30,7 +30,7 @@ Visualization
 
 Dashboards and charts created using Power BI/Tableau for strategic decision-making.
 
-Visual representations include bar charts, pie charts, and interactive maps.
+Visual representations include bar charts and interactive maps.
 
 Key Objectives
 Analyze Infection Rates: Identify regions with the highest and lowest infection rates.
@@ -71,7 +71,7 @@ Data Analysis and Visualization
 
 Visualization 1: Bar chart comparing total cases, total deaths, and total recoveries across regions.
 
-Visualization 2: Pie chart visualizing the distribution of key statistics such as death rate, new deaths, and recovery rate.
+Visualization 2: Cards visualizing the distribution of key statistics such as death rate, new deaths, and recovery rate.
 
 Interactive Maps: Geographical visualization categorizing regions into Red Zone, Safe Zone, etc.
 
